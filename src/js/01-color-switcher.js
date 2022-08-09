@@ -20,9 +20,8 @@ function onChangeColor() {
     
 }
 
-
-
 function noneTimer() {
-  clearInterval(timerId) 
-  startButton.disabled = false
+  clearInterval(timerId);
+  startButton.disabled = false;
+  
 }
